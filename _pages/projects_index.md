@@ -19,3 +19,20 @@ feature_hmpl:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+
+## Selected Projects
+
+{% include feature_row id="feature_hmpl" type="right" %}
+
+{% include feature_row id="feature_hmpl" type="left" %}
+
+{% include feature_row id="feature_hmpl" type="right" %}
+
+## Previous Projects
+
+{% include feature_row id="feature_hmpl" type="left" %}
+
+{% include feature_row id="feature_hmpl" type="right" %}
+
+{% include feature_row %}
