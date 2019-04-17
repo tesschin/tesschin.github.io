@@ -23,16 +23,16 @@ feature_hmpl:
 
 ## Selected Projects
 
-{% include feature_row id="feature_hmpl" type="right" %}
+{% include feature_row id="wowproject" type="right" %}
 
-{% include feature_row id="feature_hmpl" type="left" %}
+{% include feature_row id="wowproject" type="left" %}
 
-{% include feature_row id="feature_hmpl" type="right" %}
+{% include feature_row id="wowproject" type="right" %}
 
 ## Previous Projects
 
-{% include feature_row id="feature_hmpl" type="left" %}
+{% include feature_row id="wowproject" type="left" %}
 
-{% include feature_row id="feature_hmpl" type="right" %}
+{% include feature_row id="wowproject" type="right" %}
 
 {% include feature_row %}
