@@ -1,0 +1,31 @@
+# /_data/authors.yml
+
+Hyojin Chin:
+  name             : "Hyojin Chin"
+  avatar           : "/assets/images/dragonball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student @ IE at Korea Advanced Institute of Science and Technology."
+  location         : "Daejeon, Republic of Korea"
+  email            : tesschin@kaist.ac.kr
+  uri              : http://hyojin.github.io
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : hyojinchin
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : #UCsgiPR2CMjsWcrtFIXQS6EQ # "https://youtube.com/c/MichaelRoseDesign"
