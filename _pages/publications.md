@@ -10,7 +10,10 @@ toc_icon: "cog"
 ---
 
 ## Journal Articles
-wow
+
+{% bibliography -q @article %}
+
 
 ## Conferences
-wow wow
+
+{% bibliography -q @inproceedings %}
