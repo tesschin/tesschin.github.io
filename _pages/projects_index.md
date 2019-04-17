@@ -10,12 +10,12 @@ header:
   overlay_image: ./assets/images/cherry.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-feature_hmpl:
+wowproject:
   - image_path: /assets/images/cherry.jpg
     alt: "placeholder image 2"
-    title: "bbb"
-    excerpt: 'b.'
-    url: "/cow"
+    title: "wow"
+    excerpt: 'wow wow.'
+    url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
