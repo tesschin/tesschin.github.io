@@ -16,4 +16,3 @@ toc_icon: "cog"
 
 ## Conferences
 
-{% bibliography -q @inproceedings %}
