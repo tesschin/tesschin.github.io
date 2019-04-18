@@ -10,7 +10,7 @@ classes: wide
 header:
   #image: /images/awesome.png
   #og_image: /images/awesome.png
-  overlay_image: ./assets/images/cherry.jpg
+  overlay_image: ./assets/images/jejusea.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
