@@ -1,9 +1,9 @@
 ---
-title: Go Hoyjin!.
+title: One day at a time.
 layout: single
 permalink: /
 #date: 2016-03-23T11:48:41-04:00
-excerpt: "Go Hyojin!"  
+excerpt: "We will find a way. We always have."  
 
 author_profile: true
 classes: wide
@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Hello! My name is Hyojin Chin. I am a PhD student in Department of Industrial Engineering at Korea Advanced Institute of Science and Technology.
+#Worked as a brand marketer in Samsung and as an Account Planner in advertising company in Hyundai Motors group
 {: style="text-align: justify;"}
 
 ## Research Interests
