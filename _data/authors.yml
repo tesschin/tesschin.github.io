@@ -2,8 +2,8 @@
 
 Hyojin Chin:
   name             : "Hyojin Chin"
-  avatar           : "/assets/images/dragonball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student @ IE at Korea Advanced Institute of Science and Technology."
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student @ Knowledge Service Engineering at Korea Advanced Institute of Science and Technology."
   location         : "Daejeon, Republic of Korea"
   email            : tesschin@kaist.ac.kr
   uri              : http://tesschin.github.io
