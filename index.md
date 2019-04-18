@@ -14,7 +14,10 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-#Worked as a brand marketer in Samsung and as an Account Planner in advertising company in Hyundai Motors group
+HCI Researcher. Data Scientist. Very interested in understanding human behavior.
+Worked as a brand marketer in Samsung and as an Account Planner in advertising company in Hyundai Motors group. 
+Heavy Music Listener. Love reading books, swiming and walking.  
+
 {: style="text-align: justify;"}
 
 ## Research Interests
