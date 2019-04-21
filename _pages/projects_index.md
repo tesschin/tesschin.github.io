@@ -21,18 +21,21 @@ wowproject:
 ---
 
 
-## Selected Projects
+## Research Projects
 
 {% include feature_row id="wowproject" type="right" %}
 
-{% include feature_row id="wowproject" type="left" %}
+-->{% include feature_row id="wowproject" type="left" %}
 
-{% include feature_row id="wowproject" type="right" %}
+<!--{% include feature_row id="wowproject" type="right" %}
 
-## Previous Projects
+## Lab Projects
 
-{% include feature_row id="wowproject" type="left" %}
+<!--{% include feature_row id="wowproject" type="left" %}
 
-{% include feature_row id="wowproject" type="right" %}
+<!--{% include feature_row id="wowproject" type="right" %}
 
-{% include feature_row %}
+<!--{% include feature_row %}
+
+
+## Marketing Projects
