@@ -3,7 +3,7 @@ permalink: /videos/
 title: "My works!"
 excerpt: "asdfsdf"
 header:
-  image: /assets/images/road_cut.jpg
+  image: /assets/images/dogreat.jpg
   teaser: /assets/images/awesome_s.jpg
 sidebar:
   - title: "aa"
