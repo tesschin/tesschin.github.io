@@ -20,7 +20,7 @@ Conversational_agent_project:
     btn_class: "btn--primary"
     
 music_project:
-  - image_path: /assets/images/Music.jpg
+  - image_path: /assets/images/Music.JPG
     alt: "placeholder image 2"
     title: "wow"
     excerpt: 'wow wow.'
@@ -29,7 +29,7 @@ music_project:
     btn_class: "btn--primary"
     
 driving_project:
-  - image_path: /assets/images/Driving_project.jpg
+  - image_path: /assets/images/Driving_project.JPG
     alt: "placeholder image 2"
     title: "wow"
     excerpt: 'wow wow.'
