@@ -21,9 +21,9 @@ Heavy Music Listener. Love reading books, swiming and walking.
 {: style="text-align: justify;"}
 
 ## Research Interests
-* Underwater localization using optic-acoustic stereo system
-* Autonomous underwater intervention task using underwater robot
-* Machine learning algorithms for underwater robot applications
+* Human-Conversational Agent Interaction
+* Natural Language Processing
+* Understanding Human behaviors
 
 
 ## News  
