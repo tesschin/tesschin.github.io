@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: ./assets/images/project_main.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Designed by rawpixel.com"(http://www.freepik.com)"
 
 wowproject:
   - image_path: /assets/images/cherry.jpg
