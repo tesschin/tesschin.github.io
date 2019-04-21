@@ -10,8 +10,26 @@ header:
   overlay_image: ./assets/images/project_main.jpg
   caption: "Designed by rawpixel.com"
 
-wowproject:
+Conversational_agent_project:
   - image_path: /assets/images/Project1.jpg
+    alt: "placeholder image 2"
+    title: "wow"
+    excerpt: 'wow wow.'
+    url: "/wowproject"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+music_project:
+  - image_path: /assets/images/Music.jpg
+    alt: "placeholder image 2"
+    title: "wow"
+    excerpt: 'wow wow.'
+    url: "/wowproject"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+driving_project:
+  - image_path: /assets/images/Driving_project.jpg
     alt: "placeholder image 2"
     title: "wow"
     excerpt: 'wow wow.'
@@ -23,19 +41,19 @@ wowproject:
 
 ## Research Projects
 
-{% include feature_row id="wowproject" type="right" %}
+{% include feature_row id="Conversational_agent_project" type="right" %}
 
--->{% include feature_row id="wowproject" type="left" %}
+{% include feature_row id="music_project" type="left" %}
 
-<!--{% include feature_row id="wowproject" type="right" %}
+{% include feature_row id="driving_project" type="right" %}
 
 ## Lab Projects
 
-<!--{% include feature_row id="wowproject" type="left" %}
+<!--{% include feature_row id="wowproject" type="left" %}-->
 
-<!--{% include feature_row id="wowproject" type="right" %}
+<!--{% include feature_row id="wowproject" type="right" %}-->
 
-<!--{% include feature_row %}
+<!--{% include feature_row %}-->
 
 
 ## Marketing Projects
