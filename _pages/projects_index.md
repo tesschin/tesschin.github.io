@@ -13,7 +13,7 @@ header:
 Conversational_agent_project:
   - image_path: /assets/images/Project1.jpg
     alt: "placeholder image 2"
-    title: "wow"
+    title: "A study of verbal abuse types and conversational agents’ response styles"
     excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
