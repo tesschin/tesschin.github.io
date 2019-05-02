@@ -22,7 +22,7 @@ Conversational_agent_project:
 music_project:
   - image_path: /assets/images/Music.JPG
     alt: "placeholder image 2"
-    title: "wow"
+    title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
     excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
@@ -31,7 +31,7 @@ music_project:
 driving_project:
   - image_path: /assets/images/Driving_project.JPG
     alt: "placeholder image 2"
-    title: "wow"
+    title: "WatchOut: Facilitating Safe Driving Behaviors with Social Support"
     excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
