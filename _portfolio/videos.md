@@ -9,7 +9,7 @@ sidebar:
   - title: "aa"
     text: "adfg"
 ---
-wowwowwow video
+Video: "WatchOut: Facilitating Safe Driving Behaviors with Social Support" 
 
     {% include video id="8gbYsTqajeA" provider="youtube" %}
 
@@ -18,13 +18,4 @@ wowwowwow video
     {% include video id="TkRljvSnfuc" provider="youtube" %}
     
 ### Sub2-agent (state in 2017)
-    {% include video id="TkRljvSnfuc" provider="youtube" %}
-    {% include video id="TkRljvSnfuc" provider="youtube" %}
-
-
-
-## Agent2
-
-## Agent3
-### Sub3-agent (state in 2017)
     {% include video id="TkRljvSnfuc" provider="youtube" %}
