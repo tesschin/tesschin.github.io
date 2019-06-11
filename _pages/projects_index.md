@@ -23,8 +23,8 @@ music_project:
   - image_path: /assets/images/Music.JPG
     alt: "placeholder image 2"
     title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
-    excerpt: 'A research on automatically filtering explicit word by using machine learning technique.'
-    url: "/wowproject"
+    excerpt: 'A research on automatically filtering explicit words in music lyrics by using machine learning technique.'
+    url: "/_pages/explicit.md"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
