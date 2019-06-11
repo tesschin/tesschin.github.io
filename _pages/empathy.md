@@ -23,3 +23,6 @@ header:
 * Our study results show that, regardless of the interaction type, the agents’ response style has a signiﬁcant eﬀect on user emotions. The verbal abuse type that user exercised has a signiﬁcant inﬂuence on users’ degree of shame only in voice interaction.
 *	Participants felt lower anger and higher guilt when dealing with the empathetic agent and evaluated the empathetic agent as the most capable agent.
 *	Users evaluated the responses from the avoidance agent or counterattacking agent as less appropriate than the response of the empathetic agent.
+
+### **DOI**
+https://doi.org/10.1145/3290607.3312826
