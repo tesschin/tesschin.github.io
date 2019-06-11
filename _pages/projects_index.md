@@ -15,7 +15,7 @@ Conversational_agent_project:
     alt: "placeholder image 2"
     title: "Empathy Is All You Need. A study of verbal abuse types and conversational agents’ response styles"
     excerpt: 'A research on human and Conversation Agent interaction.'
-    url: "/empathy"
+    url: "/_pages/empathy" 
     btn_label: "Read More"
     btn_class: "btn--primary"
     
