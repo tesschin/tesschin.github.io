@@ -1,10 +1,9 @@
 ---
-title: "A Study of Verbal Abuse Types and
-Conversational Agents’ Response Styles"
-permalink: /empathy/
+title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
+permalink: /explicit/
 layout: splash
 classes: wide
-excerpt: "A research on human and Conversation Agent interaction."
+excerpt: "A research on automatically filtering explicit words in music lyrics by using machine learning technique."
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -13,13 +12,13 @@ header:
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 ---
-### **Research Goal**
-* We study how a conversational agent should respond to verbal abuse by a user. Our goal is to understand which agent response style (Avoidance, Empathy or Counterattacking) positively influences those emotions found to intervene in users’ aggressive behaviors (i.e., guilt, shame). We also examine whether the style of agent responses affects the users’ evaluation of the agents
+### **Problem & Research Goal**
+* Music has serious effects on children's development. Music lyrics have become more violent and sexual over the years. However, the system for filtering explicit contents in music often does not work properly, not to mention that it takes a lot of time and effort to do it properly.
+
+* In this study, we propose several machine learning models that automatically detect explicit contents in Korean lyrics and compare their performances. 
 
 ### **Methods**
-* We examine whether a conversational agents’ response style under varying abuse types inﬂuences those emotions found to mitigate peoples’ aggressive behaviors. The participants assigned to one of the abuse type conditions, interacted with the three conversational agents in turn and reported their feelings about guiltiness, anger, and shame after each session. Two experiments were conducted in each text and voice-based environment. We investigated the current status of commercial CAs’ responses to verbal abuse.
+* The proposed Bagging with selective vocabulary model outperformed not only the other competing models we designed, but also the filtering method that used the man-made profanity dictionary, which is a widely-used method to detect explicit contents in the industry.
 
-### **Results**
-* Our study results show that, regardless of the interaction type, the agents’ response style has a signiﬁcant eﬀect on user emotions. The verbal abuse type that user exercised has a signiﬁcant inﬂuence on users’ degree of shame only in voice interaction.
-*	Participants felt lower anger and higher guilt when dealing with the empathetic agent and evaluated the empathetic agent as the most capable agent.
-*	Users evaluated the responses from the avoidance agent or counterattacking agent as less appropriate than the response of the empathetic agent.
+### **Results and Contribution**
+* The proposed automated lyrics screening approach makes practical contributions to music industry, helping it significantly save time and effort for censoring harmful contents for the youths. The proposed approach is generalizable to other language settings as long as the same kinds of data used in the study are available
