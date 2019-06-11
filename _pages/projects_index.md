@@ -11,10 +11,10 @@ header:
   caption: "Designed by rawpixel.com"
 
 Conversational_agent_project:
-  - image_path: /assets/images/empathy.jpg
+  - image_path: /assets/images/empathy.JPG
     alt: "placeholder image 2"
     title: "Empathy Is All You Need. A study of verbal abuse types and conversational agents’ response styles"
-    excerpt: 'A research on Human and Conversation Agent Interaction.'
+    excerpt: 'A research on human and Conversation Agent interaction.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ music_project:
   - image_path: /assets/images/Music.JPG
     alt: "placeholder image 2"
     title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
-    excerpt: 'wow wow.'
+    excerpt: 'A research on automatically filtering explicit word by using machine learning technique.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
