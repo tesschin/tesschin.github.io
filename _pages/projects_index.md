@@ -13,8 +13,8 @@ header:
 Conversational_agent_project:
   - image_path: /assets/images/Project1.jpg
     alt: "placeholder image 2"
-    title: "Empathy Is All You Need_ A study of verbal abuse types and conversational agents’ response styles"
-    excerpt: 'A research on Human-Conversational Agent Interaction.'
+    title: "A study of verbal abuse types and conversational agents’ response styles"
+    excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ music_project:
   - image_path: /assets/images/Music.JPG
     alt: "placeholder image 2"
     title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
-    excerpt: 'A research on automatically filtering explicit word by using machine learning technique.'
+    excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -32,11 +32,12 @@ driving_project:
   - image_path: /assets/images/Driving_project.JPG
     alt: "placeholder image 2"
     title: "WatchOut: Facilitating Safe Driving Behaviors with Social Support"
-    excerpt: 'A research on mobile applications that can intervention with driver's bad driving behaviors.'
+    excerpt: 'wow wow.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
 
 
 
