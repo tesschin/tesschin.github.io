@@ -7,7 +7,7 @@ excerpt: "A research on automatically filtering explicit words in music lyrics b
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: ./assets/images/userstudy.jpg
+  overlay_image: ./assets/images/headphone.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
