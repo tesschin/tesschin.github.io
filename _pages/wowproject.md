@@ -1,13 +1,14 @@
 ---
-title: "wowproject"
+title: "A Study of Verbal Abuse Types and
+Conversational Agents’ Response Styles"
 permalink: /wowproject/
 layout: splash
 classes: wide
-excerpt: "wowproject."
+excerpt: "Conversation Agent."
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: ./assets/images/userprofile.jpg
+  overlay_image: ./assets/images/userstudy.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
