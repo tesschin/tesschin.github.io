@@ -14,7 +14,7 @@ Conversational_agent_project:
   - image_path: /assets/images/empathy.jpg
     alt: "placeholder image 2"
     title: "Empathy Is All You Need. A study of verbal abuse types and conversational agents’ response styles"
-    excerpt: 'wow wow.'
+    excerpt: 'A research on Human and Conversation Agent Interaction.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
