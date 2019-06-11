@@ -14,7 +14,6 @@ header:
 ---
 ### **Problem & Research Goal**
 * Music has serious effects on children's development. Music lyrics have become more violent and sexual over the years. However, the system for filtering explicit contents in music often does not work properly, not to mention that it takes a lot of time and effort to do it properly.
-
 * In this study, we propose several machine learning models that automatically detect explicit contents in Korean lyrics and compare their performances. 
 
 ### **Methods**
@@ -22,3 +21,6 @@ header:
 
 ### **Results and Contribution**
 * The proposed automated lyrics screening approach makes practical contributions to music industry, helping it significantly save time and effort for censoring harmful contents for the youths. The proposed approach is generalizable to other language settings as long as the same kinds of data used in the study are available
+
+### **DOI**
+https://doi.org/10.1109/BigComp.2018.00085
