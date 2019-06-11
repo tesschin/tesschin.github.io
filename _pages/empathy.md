@@ -1,7 +1,7 @@
 ---
 title: "A Study of Verbal Abuse Types and
 Conversational Agents’ Response Styles"
-permalink: /empathy/
+permalink: /_pages/empathy/
 layout: splash
 classes: wide
 excerpt: "A research on human and Conversation Agent interaction."
