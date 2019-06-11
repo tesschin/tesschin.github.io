@@ -7,7 +7,7 @@ excerpt: "wowproject."
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: ./assets/images/cherry.jpg
+  overlay_image: ./assets/images/userprofile.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
