@@ -33,7 +33,7 @@ driving_project:
     alt: "placeholder image 2"
     title: "WatchOut: Facilitating Safe Driving Behaviors with Social Support"
     excerpt: 'A research on mobile applications that can intervention with bad driving behaviors of drivers.'
-    url: "/wowproject"
+    url: "/driving"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
