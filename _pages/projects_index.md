@@ -39,8 +39,6 @@ driving_project:
 ---
 
 
-
-
 ## Research Projects
 
 {% include feature_row id="Conversational_agent_project" type="right" %}
