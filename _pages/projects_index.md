@@ -32,7 +32,7 @@ driving_project:
   - image_path: /assets/images/Driving_project.JPG
     alt: "placeholder image 2"
     title: "WatchOut: Facilitating Safe Driving Behaviors with Social Support"
-    excerpt: 'A research on mobile applications that can intervention with driver's bad driving habits.'
+    excerpt: 'A research on mobile applications that can intervention with driver's bad driving behaviors.'
     url: "/wowproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
