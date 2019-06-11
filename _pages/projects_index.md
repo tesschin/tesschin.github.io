@@ -15,7 +15,7 @@ Conversational_agent_project:
     alt: "placeholder image 2"
     title: "Empathy Is All You Need. A study of verbal abuse types and conversational agents’ response styles"
     excerpt: 'A research on human and Conversation Agent interaction.'
-    url: "/wowproject" 
+    url: "/empathy" 
     btn_label: "Read More"
     btn_class: "btn--primary"
     
@@ -24,7 +24,7 @@ music_project:
     alt: "placeholder image 2"
     title: "Explicit Content Detection in Music Lyrics Using Machine Learning"
     excerpt: 'A research on automatically filtering explicit words in music lyrics by using machine learning technique.'
-    url: "/_pages/explicit.md"
+    url: "/explicit"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
