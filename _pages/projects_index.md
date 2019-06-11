@@ -11,7 +11,7 @@ header:
   caption: "Designed by rawpixel.com"
 
 Conversational_agent_project:
-  - image_path: /assets/images/Project1.jpg
+  - image_path: /assets/images/empathy.jpg
     alt: "placeholder image 2"
     title: "A study of verbal abuse types and conversational agents’ response styles"
     excerpt: 'wow wow.'
