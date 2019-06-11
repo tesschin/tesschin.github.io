@@ -18,5 +18,5 @@ header:
 * We built an Android prototype app to deliver feedback for bad driving maneuvers to both drivers themselves and to their corresponding supporters, and conducted a field study evaluation.
 ### **Results**
 * The results from the survey showed that even though many of the drivers thought they drove safely before this experiment, they realized the app feedback on their driving behavior increased their knowledge of their own driving habits. Further, supporter feedback based on the app helped them drive safer. Based on the results, multiple design implications are drawn for improving driving habits through increasing self-awareness and providing support from loved ones.
-### **Doi**
-DOI: https://doi.org/10.1145/3027063.3053188
+### **DOI**
+https://doi.org/10.1145/3027063.3053188
