@@ -7,6 +7,9 @@ author_profile: true
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+url: "/wowproject"
+btn_label: "doi"
+btn_class: "btn--primary"
 ---
 
 ## Journal Articles
