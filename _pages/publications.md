@@ -12,10 +12,6 @@ toc_icon: "cog"
 ## Journal Articles
 1. Kim, S., Jang, J., Kim, S. J., Chin, H., & Yi, M. Y. (2016). Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. 
 DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
-    
-btn_label: "doi"
-btn_class: "btn--primary"
-
 
 ## Conferences
 1. Hyojin Chin and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages. 
