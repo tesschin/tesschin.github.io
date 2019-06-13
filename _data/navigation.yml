@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Videos"
-    url: /videos/
   - title: "Projects"
     url: /projects_index/
+  - title: "Publications"
+    url: /publications/
   - title: "Blogs"
     url: /blogs/
   - title: "Codes"
     url: https://github.com/tesschin
-  - title: "Publications"
-    url: /publications/
+  - title: "Videos"
+    url: /videos/
   - title: "CV"
     url: /about/
