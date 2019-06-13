@@ -12,6 +12,8 @@ toc_icon: "cog"
 ## Journal Articles
 1. Kim, S., Jang, J., Kim, S. J., Chin, H., & Yi, M. Y. (2016). Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. 
 DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
+    btn_label: "doi"
+    btn_class: "btn--primary"
 
 
 ## Conferences
