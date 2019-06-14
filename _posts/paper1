@@ -1,0 +1,69 @@
+---
+published: true
+title: CA paper #1: Like Having a Really bad PA.
+classes: wide
+categories:
+  - Tools
+tags:
+  - journal
+  - graduation
+---
+
+*** Title: CA Paper #1 *** 
+1. Date: 2019.06.14
+
+2. Reference: Ewa Luger and Abigail Sellen. 2016. "Like Having a Really Bad PA": The Gulf between User Expectation and Experience of 
+   Conversational Agents. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). ACM,
+   New York, NY, USA, 5286-5297. DOI: https://doi.org/10.1145/2858036.2858288
+
+3. Memo:
+   1) Problem:  Conversation is becoming a key mode of human-computer interaction. 
+                However,there is no sense of how such interfaces are used in everyday life.
+   2) Objects of research: 
+      *  Findings of interviews with 14 users of CAs in an effort to understand the current interactional factors affecting everyday use
+      *  Two key questions
+         (a) what factors currently motivate and limit the ongoing use of CAs in everyday life
+         (b) what should we consider in future design iterations?
+   3) What they did:
+      They present the findings of 14 semi-structured interviews conducted with existing users of CA systems and, 
+      on the basis of their analysis, present four key areas where current systems fail to support effective user interaction
+   4) Findings:
+      *  The tasks reported were relatively simple; checking upcoming weather followed by reminders.
+      *  all participants described making use of a particular economy of language. (어려운 단어를 쓰지 않거나, 일부러 쉽게 말하기 등) 
+      *  majority were unlikely to engage in conversational-style interactions when in public 
+         (in private 일때는 Personal한 Tone으로 말할 수도 있지만 in public에서는 direct하게 명령함) 
+      *  CA were considered an entertaining/gimmicky addition to their device rather than a key application. 
+         (주요 기능이라기 보다는 entertaining이나 추가 기능 정도로 인식)
+      *  families with small children (3 participants), Siri and Cortana were a particular source of entertainment (어린이 사용 많음)
+      *  once the amusement had passed, levels of engagement dipped and the framing of Siri as a fallible 
+         but amusing tool pervaded much of the narrative (오락적인 부분에 대한 재미가 떨어지면 engagement가 떨어짐)
+      *  When Siri failed to perform a key task more than a few times (reportedly between 2 and 6 in the majority of cases),
+         user expectations were set (2-6번 정도의 key task fail 경험으로, expectation이 setting됨)
+      *  the principle use-case for the CA was ‘hands free’, which was tied strongly to the theme of (★★★★)
+         timesaving and convenience (a) hands were necessarily otherwise engaged (b) hands were dirty (c) the handset couldn’t be easily reached, 
+         (d) speech was felt to be faster, or (b) when attention was distributed, particularly during another primary activity 
+      *  Participants made the CA their principal focus only when engaging it in playful interactions, 
+         or during preparatory or exploratory work/activities such as experimenting/teaching it/testing the limits of its capability
+         Most useful during activities that demanded high attentional resources such as cycling, driving, or looking after children
+      *  Users viewed their CA principally as a simple task-based system and, they did not attempt complex tasks 
+         (a) Simple Task: check the weather, setting reminders, setting alarms, getting directions, making lists, adding notes, 
+              adding items to their calendar, searching the Internet, searching their address book, activating music playlists
+         (b) Complex Task: launching a call or sending a long email (mostly considered tasks with which the CA could not be trusted)
+      *  They did not know what their CA could do. 
+      *  Specific factors limiting interaction included a lack of understanding of 
+          (a) what the system could do, (b) what it was doing (c) how it was doing it, (d) whether or not its capabilities altered 
+              over time, and (e) the extent to which that alteration was a direct result of user interaction
+      *  Users were more technically knowledgeable, their expectations were relatively modest and they tended to be more forgiving
+         when the CA failed (기술적인 정보가 많을수록, agent 실수에 관대함) 
+      *  those who reported less technical knowledge were found to use both gendered pronouns and greater anthropomorphism in 
+         their descriptions (기술적인 정보가 적을수록 의인화 경향을 보임) 
+      *  ****CAs were found to fail to live up to initial user expectations****
+      *  the issue of required precision was a factor linked to trust and reliability
+      *  visual confirmation that complex tasks had been carried out accurately (복잡한 Task에 대해서는 Visual Confirmatioin을 원함)
+      *  의인화 요소는 유저의 기대치를 높임. playful/humorous interactions had the effect of reinforcing anthropomorphic qualities
+         (유머는 의인화 요소를 더 강화함)
+      *  the principle use-case of the CA was ‘handsfree’, meaning that an alternative primary task, rather than the conversation,
+         was the focus of attention. (★★★★)
+      *  the activity was not only hands free but required a level of visual attention (화면 dictation)
+      *  deep ‘gulf of evaluation'
+     
