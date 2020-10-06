@@ -15,7 +15,7 @@ header:
 ---
 ## About Me
 Data Scientist. HCI Researcher. Very interested in understanding and designing human interactions with artificial intelligence systems.
-Worked as a brand marketer in Samsung Electronics and as an Senior Account Planner in Innocean Worldwide (Hyundai Motor Company’s global marketing communication
+Worked as a Brand Marketer in Samsung Electronics and as an Senior Account Planner in Innocean Worldwide (Hyundai Motor Company’s global marketing communication
 enterprise). Heavy Music Listener. Love reading books, swiming and walking.  
 
 {: style="text-align: justify;"}
