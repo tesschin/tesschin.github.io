@@ -14,18 +14,21 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-HCI Researcher. Data Scientist. Very interested in understanding human behavior.
-Worked as a brand marketer in Samsung and as an Account Planner in advertising company in Hyundai Motors group. 
-Heavy Music Listener. Love reading books, swiming and walking.  
+Data Scientist. HCI Researcher. Very interested in understanding and designing human interactions with artificial intelligence systems.
+Worked as a brand marketer in Samsung Electronics and as an Senior Account Planner in Innocean Worldwide (Hyundai Motor Company’s global marketing communication
+enterprise). Heavy Music Listener. Love reading books, swiming and walking.  
 
 {: style="text-align: justify;"}
 
 ## Research Interests
-* Human-Conversational Agent Interaction
+* Human-AI Interaction
+* Affective Computing
+* Data Mining
+* Human-Computer Interaction
 * Natural Language Processing
 * Understanding Human behaviors
 
 
 ## News  
-### May 2019  
-I am happy now.
+### Oct 2020 
+
