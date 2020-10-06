@@ -1,9 +1,9 @@
 ---
-title: One day at a time.
+title: The man who has no imagination has no wings. -Muhammad Ali 
 layout: single
 permalink: /
 #date: 2016-03-23T11:48:41-04:00
-excerpt: "We will find a way. We always have."  
+excerpt: "One day at a time."  
 
 author_profile: true
 classes: wide
