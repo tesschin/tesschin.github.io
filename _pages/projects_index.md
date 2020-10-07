@@ -54,25 +54,29 @@ driving_project:
 <!--{% include feature_row id="wowproject" type="right" %}-->
 
 <!--{% include feature_row %}-->
-### Human-Agent Interaction for Distributed Intelligence System (Oct. 2017 - Aug.2020).
-#####  Research Assistant at KAIST KIRC Lab. Funded by ETRI (ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE). 
+### A. Human-Agent Interaction for Distributed Intelligence System.
+#####  Research Assistant at KAIST KIRC Lab. Funded by ETRI (Electronics and Telecommunications Research Institute). 
 • Study human interaction with collaborative intelligence between people, objects, and space. <br>
-• Study issues related to transparency, uncertainty, motivation & trust in interaction between conversational agent and users.
+• Study issues related to transparency, uncertainty, motivation & trust in interaction between conversational agent and users.<br>
+• Project Period: Oct. 2017 - Aug.2020
+
+### B. Planning and Design of Big Data-Based Expert Recommendation systems. 
+##### Research Assistant at KAIST KIRC Lab. Funded by NRF (National Research Foundation of Korea). 
+• Develop a system that recommends the panel of experts who can review research projects by matching the similarities <br> 
+ between the researcher’s thesis and the research proposals’ text content.<br> 
+• Project Period: Mar. 2017 - Sep. 2017
+ 
 
 
-### Planning and Design of Big Data-Based Expert Recommendation systems (Mar. 2017 - Sep. 2017). 
-##### Research Assistant at KAIST KIRC Lab. Funded by NRF (NATIONAL RESEARCH FOUNDATION OF KOREA). 
-• Develop a system that recommends the panel of experts who can review research projects by matching the similarities between
-the researcher’s thesis and the research proposals’ text content.
-
-
-### Real Estate Price Evaluation Using Machine Learning (July. 2016 - Dec. 2016). 
-##### Research Assistant at KAIST KIRC Lab. Funded by KAB (KOREA APPRAISAL BOARD).
+### C. Real Estate Price Evaluation Using Machine Learning. 
+##### Research Assistant at KAIST KIRC Lab. Funded by KAB (Korea Appraisal Board).
 • Develop real estate price estimation model and apply machine learning algorithm.<br>
-• Analyze real estate data concerning land and house prices in South Korea.
+• Analyze real estate data concerning land and house prices in South Korea.<br>
+• Project Period: July. 2016 - Dec. 2016
 
-### Implementation of Smart Data Town Platform with Big data & IOT (Aug. 2015 - Mar. 2016)
-####  Research Assistant at KAIST KIRC Lab. Funded by IITP (INSTITUTE OF INFORMATION & COMMUNICATIONS TECHNOLOGY PLANNING and EVALUATION).
-• Job Preference Analysis and Job Matching System Development for the Middle Aged Class
+### D. Implementation of Smart Data Town Platform with Big data & IOT.
+####  Research Assistant at KAIST KIRC Lab. Funded by IITP (Institute of Information & communications Technology Planning and Evaluation).
+• Job Preference Analysis and Job Matching System Development for the Middle Aged Class <br>
+• Project Period: Aug. 2015 - Mar. 2016
 
 ## Marketing Projects
