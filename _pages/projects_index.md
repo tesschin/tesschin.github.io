@@ -54,6 +54,9 @@ driving_project:
 <!--{% include feature_row id="wowproject" type="right" %}-->
 
 <!--{% include feature_row %}-->
+# Human-Agent Interaction for Distributed Intelligence System 
+• Study human interaction with collaborative intelligence between people, objects, and space.
+• Study issues related to transparency, uncertainty, motivation & trust in interaction between conversational agent and users.
 
 
 ## Marketing Projects
