@@ -1,9 +1,9 @@
 ---
-title: The man who has no imagination has no wings. -Muhammad Ali 
+title: The man who has no imagination has no wings.
 layout: single
 permalink: /
 #date: 2016-03-23T11:48:41-04:00
-excerpt: "One day at a time."  
+excerpt: "-Muhammad Ali "  
 
 author_profile: true
 classes: wide
