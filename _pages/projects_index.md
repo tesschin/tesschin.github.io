@@ -54,10 +54,25 @@ driving_project:
 <!--{% include feature_row id="wowproject" type="right" %}-->
 
 <!--{% include feature_row %}-->
-### Human-Agent Interaction for Distributed Intelligence System 
-• Study human interaction with collaborative intelligence between people, objects, and space.
-
+### Human-Agent Interaction for Distributed Intelligence System (Oct. 2017 - Aug.2020).
+#####  Research Assistant at KAIST KIRC Lab. Funded by ETRI (ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE). 
+• Study human interaction with collaborative intelligence between people, objects, and space. <br>
 • Study issues related to transparency, uncertainty, motivation & trust in interaction between conversational agent and users.
 
+
+### Planning and Design of Big Data-Based Expert Recommendation systems (Mar. 2017 - Sep. 2017). 
+##### Research Assistant at KAIST KIRC Lab. Funded by NRF (NATIONAL RESEARCH FOUNDATION OF KOREA). 
+• Develop a system that recommends the panel of experts who can review research projects by matching the similarities between
+the researcher’s thesis and the research proposals’ text content.
+
+
+### Real Estate Price Evaluation Using Machine Learning (July. 2016 - Dec. 2016). 
+##### Research Assistant at KAIST KIRC Lab. Funded by KAB (KOREA APPRAISAL BOARD).
+• Develop real estate price estimation model and apply machine learning algorithm.<br>
+• Analyze real estate data concerning land and house prices in South Korea.
+
+### Implementation of Smart Data Town Platform with Big data & IOT (Aug. 2015 - Mar. 2016)
+####  Research Assistant at KAIST KIRC Lab. Funded by IITP (INSTITUTE OF INFORMATION & COMMUNICATIONS TECHNOLOGY PLANNING and EVALUATION).
+• Job Preference Analysis and Job Matching System Development for the Middle Aged Class
 
 ## Marketing Projects
