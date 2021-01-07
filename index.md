@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Data Scientist. HCI Researcher. Very interested in understanding and designing human interactions with artificial intelligence systems.
+Data Scientist. HCI Researcher. Very interested in understanding and designing human interactions with artificial intelligence systems. Involved in explaining and predicting unknown behaviour through data analysis.
 Worked as a Brand Marketer in Samsung Electronics and as an Senior Account Planner in Innocean Worldwide (Hyundai Motor Company’s global marketing communication
 enterprise). Heavy Music Listener. Love reading books, swiming and walking.  
 
@@ -22,13 +22,14 @@ enterprise). Heavy Music Listener. Love reading books, swiming and walking.
 
 ## Research Interests
 * Human-AI Interaction
-* Affective Computing
-* Data Mining
+* Applied Data Mining
 * Human-Computer Interaction
-* Natural Language Processing
 * Understanding Human behaviors
+* Affective Computing
+* Natural Language Processing
+
 
 
 ## News  
-### Oct 2020 
+### Jan 2021 
 
