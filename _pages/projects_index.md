@@ -13,8 +13,8 @@ header:
 Conversational_agent_project:
   - image_path: /assets/images/empathy.JPG
     alt: "placeholder image 2"
-    title: "Empathy Is All You Need. A study of verbal abuse types and conversational agents’ response styles"
-    excerpt: 'A research on human and Conversation Agent interaction.'
+    title: "How a Conversational Agent Should Respond to Verbal Abuse"
+    excerpt: 'A study of verbal abuse types and conversational agents’ response styles.'
     url: "/empathy" 
     btn_label: "Read More"
     btn_class: "btn--primary"
