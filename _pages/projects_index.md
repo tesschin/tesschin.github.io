@@ -3,13 +3,13 @@ title: "Projects"
 layout: splash
 permalink: /projects_index/
 classes: wide
-excerpt: "everthing"
+excerpt: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: ./assets/images/project_main.jpg
   caption: "Designed by rawpixel.com"
-
+ 
 Conversational_agent_project:
   - image_path: /assets/images/empathy.JPG
     alt: "placeholder image 2"
