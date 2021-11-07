@@ -39,7 +39,7 @@ driving_project:
 ---
 
 
-## Research Projects
+## Research Project
 
 {% include feature_row id="Conversational_agent_project" type="right" %}
 
@@ -47,7 +47,7 @@ driving_project:
 
 {% include feature_row id="driving_project" type="right" %}
 
-## Lab Projects
+## Research Experience
 
 <!--{% include feature_row id="wowproject" type="left" %}-->
 
@@ -65,8 +65,6 @@ driving_project:
 • Develop a system that recommends the panel of experts who can review research projects by matching the similarities <br> 
  between the researcher’s thesis and the research proposals’ text content.<br> 
 • Project Period: Mar. 2017 - Sep. 2017
- 
-
 
 ### Real Estate Price Evaluation Using Machine Learning. 
 ##### Research Assistant at KAIST KIRC Lab. Funded by KAB (Korea Appraisal Board).
@@ -79,7 +77,7 @@ driving_project:
 • Job Preference Analysis and Job Matching System Development for the Middle Aged Class <br>
 • Project Period: Aug. 2015 - Mar. 2016
 
-## Marketing Projects
+## Marketing Project
 ### Hyundai and Kia Motors' corporate and product brand launching projects.
 • Analyze quantitative and qualitative data on Hyundai motor group’s automotive products—gathered from user studies, surveys, and social media—and translate into tactical insights to support clients and project teams. <br>
 • Monitor online customer feedback on Hyundai motor group’s automotive product brand and report on issues and trends.<br>
