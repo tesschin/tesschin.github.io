@@ -9,6 +9,15 @@ header:
   overlay_filter: "0.2"
   overlay_image: ./assets/images/project_main.jpg
   caption: "Designed by rawpixel.com"
+  
+Voice_project:
+  - image_path: /assets/images/voice.JPG
+    alt: "placeholder image 2"
+    title: "Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy Orientation and Emotional Expressivity in Mitigating Verbal Abuse"
+    excerpt: 'A study of  CA's Empathy Orientation and Emotional Expressivity.'
+    url: "/voice" 
+    btn_label: "Read More"
+    btn_class: "btn--primary"
  
 Conversational_agent_project:
   - image_path: /assets/images/empathy.JPG
@@ -40,6 +49,7 @@ driving_project:
 
 
 ## Research Project
+{% include feature_row id="Voice_project" type="left" %}
 
 {% include feature_row id="Conversational_agent_project" type="right" %}
 
