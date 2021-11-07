@@ -1,10 +1,10 @@
 ---
-title: "A Study of Verbal Abuse Types and
-Conversational Agents’ Response Styles"
+title: "How a Conversational Agent Should Respond to Verbal Abuse"
 permalink: /empathy/
 layout: splash
 classes: wide
-excerpt: "A research on human and Conversation Agent interaction."
+excerpt: "A Study of Verbal Abuse Types and
+Conversational Agents’ Response Styles."
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -21,8 +21,12 @@ header:
 
 ### **Results**
 * Our study results show that, regardless of the interaction type, the agents’ response style has a signiﬁcant eﬀect on user emotions. The verbal abuse type that user exercised has a signiﬁcant inﬂuence on users’ degree of shame only in voice interaction.
+* The primary findings are that the current IPAs mostly rely on the avoidance strategy in coping with verbal abuse and the agent’s response style has a significant effect on user emotions associated with mitigating verbal aggression and on the evaluations of the agent’s capability. 
 *	Participants felt lower anger and higher guilt when dealing with the empathetic agent and evaluated the empathetic agent as the most capable agent.
-*	Users evaluated the responses from the avoidance agent or counterattacking agent as less appropriate than the response of the empathetic agent.
+*	The users rated the avoidance CA as most inappropriate and incompetent than the other two agents.  
+*	User assessments about the counterattacking CA have shown conflicting results.
+*	Considering that major IPAs are generally taking the approach of avoidance,the current strategies of major IPAs for dealing with verbal abuse seems inadequate.
 
 ### **DOI**
+https://doi.org/10.1145/3313831.3376461
 https://doi.org/10.1145/3290607.3312826
