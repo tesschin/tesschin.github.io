@@ -85,6 +85,6 @@ driving_project:
 • Monitor online customer feedback on Hyundai motor group’s automotive product brand and report on issues and trends.<br>
 • Develop KIA motors’ global corporate brand communication strategies and communication guidelines.
 
-### Samsung Electronics CE products' Brand Marketing Projects
+### Samsung Electronics CE products' Brand Marketing Projects.
 • Develope and execute global home appliance product launching strategies, including advertising, ATL, BTL and public relations.<br>
 • Develope global and regional brand management strategies for home appliance products.
