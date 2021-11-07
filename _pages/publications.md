@@ -11,9 +11,9 @@ toc_icon: "cog"
 
 ## Journal Articles
 1. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
-Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (Accept / IF 3.353) <br>
+Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (Accept / **IF 3.353**) <br>
 
-2. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**,and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
+2. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
 - DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
 
 ## International Conferences
