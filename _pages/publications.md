@@ -10,10 +10,10 @@ toc_icon: "cog"
 ---
 
 ## Journal Articles
-1. **Hyojin Chin** and Mun Yong Yi. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
-Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction, 2021.<br>
+1. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
+Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (Accept / IF 3.353) <br>
 
-2. Kim, S., Jang, J., Kim, S. J., Chin, H., & Yi, M. Y. (2016). Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
+2. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**,and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
 - DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
 
 ## International Conferences
@@ -21,7 +21,7 @@ Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International
 Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The Web Conference, April 19–23, 2021, Ljubljana, Slovenia. ACM, NewYork, NY, USA, 12 pages.<br> 
 - DOI: https://doi.org/10.1145/1122445.11224
 
-2. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi "Empathy Is All You Need: How a Conversational Agent should Respond to Verbal Abuse" In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
+2. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
 - DOI: https://doi.org/10.1145/3313831.3376461
 
 3. **Hyojin Chin** and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages.<br>
