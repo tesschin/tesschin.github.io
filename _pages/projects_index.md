@@ -80,3 +80,11 @@ driving_project:
 • Project Period: Aug. 2015 - Mar. 2016
 
 ## Marketing Projects
+### Hyundai and Kia Motors' corporate and product brand launching projects.
+• Analyze quantitative and qualitative data on Hyundai motor group’s automotive products—gathered from user studies, surveys, and social media—and translate into tactical insights to support clients and project teams.
+• Monitor online customer feedback on Hyundai motor group’s automotive product brand and report on issues and trends.
+• Develop KIA motors’ global corporate brand communication strategies and communication guidelines.
+
+### Samsung Electronics CE products' Brand Marketing Projects
+• Develope and execute global home appliance product launching strategies, including advertising, ATL, BTL and public relations.
+• Develope global and regional brand management strategies for home appliance products.
