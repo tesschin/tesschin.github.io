@@ -9,14 +9,14 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-## Journal Articles
+## Refereed Journals
 1. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (Accept / **IF 3.353**) <br>
 
 2. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
 - DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
 
-## International Conferences
+## Conference Proceedings (International) 
 1. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experienceand
 Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The Web Conference, April 19–23, 2021, Ljubljana, Slovenia. ACM, NewYork, NY, USA, 12 pages.<br> 
 - DOI: https://doi.org/10.1145/1122445.11224
@@ -33,7 +33,7 @@ Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The W
 5. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
 - DOI: https://doi.org/10.1145/3027063.3053188
 
-## Korea Conferences
+## Conference Proceedings (Korea)
 1. **Hyojin Chin** et al. 2021. A Study on the Categories and Characteristics of Depressive Moods in Chatbot Data. Proceedings of the Korea Information Processing Society Conference, 28(2) pp.993-996
 
 2. Mingi Shin and **Hyojin Chin** et al. 2021. Hate Speech Detection in Chatbot Data Using KoELECTRA. Proceedings of the 33th Annual Conference on Human and Cognitive Language Technology, pp.518-523
