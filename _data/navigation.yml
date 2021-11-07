@@ -6,11 +6,11 @@ main:
     url: /projects_index/
   - title: "Publications"
     url: /publications/
-  - title: "Blogs"
-    url: /blogs/
-  - title: "Codes"
-    url: https://github.com/tesschin
-  - title: "Videos"
-    url: /videos/
+#  - title: "Blogs"
+#    url: /blogs/
+#  - title: "Codes"
+#    url: https://github.com/tesschin
+#  - title: "Videos"
+#    url: /videos/
   - title: "CV"
     url: /about/
