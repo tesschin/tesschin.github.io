@@ -17,20 +17,22 @@ Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International
 - DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
 
 ## Conference Proceedings (International) 
-1. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experienceand
+1.  **Hyojin Chin**, Soo Young Bae, and Meeyoung Cha. Algorithm-driven news outcomes on political knowledge and MeToo-related rumor beliefs. 2021. The 5th International Conference of Women Scientists and Engineers conference on BT, IT, ET, and NT (BIEN’ 21). Daejeon, Korea. (Extended Abstract).<br> 
+ 
+2. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experienceand
 Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The Web Conference, April 19–23, 2021, Ljubljana, Slovenia. ACM, NewYork, NY, USA, 12 pages.<br> 
 - DOI: https://doi.org/10.1145/1122445.11224
 
-2. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
+3. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
 - DOI: https://doi.org/10.1145/3313831.3376461
 
-3. **Hyojin Chin** and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages.<br>
+4. **Hyojin Chin** and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages.<br>
 - DOI: https://doi.org/10.1145/3290607.3312826
 
-4. **Hyojin, Chin** et al. "Explicit Content Detection in Music Lyrics Using Machine Learning." 2018 IEEE International Conference on Big Data and Smart Computing (BigComp). IEEE, 2018. <br>
+5. **Hyojin, Chin** et al. "Explicit Content Detection in Music Lyrics Using Machine Learning." 2018 IEEE International Conference on Big Data and Smart Computing (BigComp). IEEE, 2018. <br>
 - DOI: https://doi.org/10.1109/BigComp.2018.00085
 
-5. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
+6. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
 - DOI: https://doi.org/10.1145/3027063.3053188
 
 ## Conference Proceedings (Korea)
