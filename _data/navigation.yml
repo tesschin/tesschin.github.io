@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects_index/
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects_index/
+#  - title: "Publications"
+#    url: /publications/
 #  - title: "Blogs"
 #    url: /blogs/
 #  - title: "Codes"
