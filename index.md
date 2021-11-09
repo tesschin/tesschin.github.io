@@ -19,9 +19,9 @@ Data Scientist. HCI Researcher. Very interested in understanding and designing h
 {: style="text-align: justify;"}
 
 ## Research Interests
-* Human-AI Interaction
+* Understanding and Designing Human Interactions with Artificial Intelligence Systems
+* Applied Data Mining : Explaining and predicting unknown behavior by analyzing data
 * Natural Language Processing
-* Applied Data Mining
 * Computational Social Science
 * Affective Computing
 
