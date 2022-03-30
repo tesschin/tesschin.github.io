@@ -29,5 +29,5 @@ Data Scientist. HCI Researcher. Very interested in understanding and designing h
 
 
 ## News  
-
+* Affective Computing
 
