@@ -32,4 +32,4 @@ with two alternative empathy orientation conditions (other-oriented, self-orient
 * Participants showed a desire to interact with the agent that can have its emotion well reflected in various vocal features.<br>
 
 ### **DOI**
-* To Be Updated
+* https://doi.org/10.1080/10447318.2021.1987680
