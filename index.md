@@ -29,5 +29,5 @@ Data Scientist. HCI Researcher. Very interested in understanding and designing h
 
 
 ## News  
-* Win Best Paper Award, HCI Korea 2022 Conference!
+### Win Best Paper Award, HCI Korea 2022 Conference!
 
