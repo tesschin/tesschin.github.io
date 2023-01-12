@@ -28,6 +28,5 @@ Data Scientist. HCI Researcher. Very interested in understanding and designing h
 
 
 
-## News  
-### Win Best Paper Award, HCI Korea 2022 Conference!
-
+## News
+### My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was accepted by the Journal of Medical Internet Research (impact factor: 7.08/22nd Dec 2022)!
