@@ -10,7 +10,7 @@ toc_icon: "cog"
 ---
 
 ## Refereed Journals
-1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. 2023 (Accepted). Journal of Medical Internet Research. (**IF 7.08** / **SCIE**) <br>
+1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. 2023 (Accepted). User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis Journal of Medical Internet Research. (**IF 7.08** / **SCIE**) <br>
 - DOI: https://pubmed.ncbi.nlm.nih.gov/36596214/
 2. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 3.353** / **SCIE**) <br>
