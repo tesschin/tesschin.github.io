@@ -12,11 +12,15 @@ toc_icon: "cog"
 ## Refereed Journals
 1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. 2023 (Accepted). User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis. Journal of Medical Internet Research. (**IF 7.08** / **SCIE**) <br>
 - DOI: https://pubmed.ncbi.nlm.nih.gov/36596214/
-2. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
+
+2. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
+teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and Data Engineering, 11, 9, (2022), 381-390. [KCI]
+
+3. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 3.353** / **SCIE**) <br>
 - DOI: https://doi.org/10.1080/10447318.2021.1987680
 
-3. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
+4. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. <br>
 - DOI: https://doi.org/10.13088/JIIS.2016.22.4.247
 
 ## Conference Proceedings (International) 
