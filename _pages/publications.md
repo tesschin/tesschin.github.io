@@ -15,6 +15,7 @@ toc_icon: "cog"
 
 2. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
 teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and Data Engineering, 11, 9, (2022), 381-390. [KCI]
+- DOI: https://doi.org/10.3745/KTSDE.2022.11.9.381
 
 3. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 3.353** / **SCIE**) <br>
