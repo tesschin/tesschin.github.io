@@ -10,6 +10,16 @@ header:
   overlay_image: ./assets/images/project_main.jpg
   caption: "Designed by rawpixel.com"
   
+ covid_project:    
+  - image_path: /assets/images/jmir23.JPG
+    alt: "placeholder image 2"
+    title: "User-Chatbot Conversations During the COVID-19 Pandemic"
+    excerpt:
+    url: "/simsimicovid19"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  
+  
 Voice_project:    
   - image_path: /assets/images/voice.JPG
     alt: "placeholder image 2"
@@ -29,7 +39,6 @@ Conversational_agent_project:
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-
     
 music_project:
   - image_path: /assets/images/Music.JPG
@@ -52,13 +61,15 @@ driving_project:
 
 
 ## Research Project
-{% include feature_row id="Voice_project" type="left" %}
+{% include feature_row id="covid_project" type="left" %}
 
-{% include feature_row id="Conversational_agent_project" type="right" %}
+{% include feature_row id="Voice_project" type="right" %}
 
-{% include feature_row id="music_project" type="left" %}
+{% include feature_row id="Conversational_agent_project" type="left" %}
 
-{% include feature_row id="driving_project" type="right" %}
+{% include feature_row id="music_project" type="right" %}
+
+{% include feature_row id="driving_project" type="left" %}
 
 ## Research Experience
 
