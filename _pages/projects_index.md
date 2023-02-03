@@ -10,8 +10,8 @@ header:
   overlay_image: ./assets/images/project_main.jpg
   caption: "Designed by rawpixel.com"
   
- covid_project:    
-  - image_path: /assets/images/jmir23.JPG
+covid_project:    
+  - image_path: /assets/images/jmir23.png
     alt: "placeholder image 2"
     title: "User-Chatbot Conversations During the COVID-19 Pandemic"
     excerpt:
