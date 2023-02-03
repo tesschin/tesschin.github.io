@@ -10,8 +10,8 @@ toc_icon: "cog"
 ---
 
 ## Refereed Journals
-1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. 2023 (Accepted). User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis. Journal of Medical Internet Research. (**IF 7.08** / **SCIE**) <br>
-- DOI: https://pubmed.ncbi.nlm.nih.gov/36596214/
+1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: Study Based on Topic Modeling and Sentiment Analysis.Journal of Medical Internet Research.2023;25:e40922 (**IF 7.08** / **SCIE**) <br>
+- DOI: https://doi.org/10.2196/40922
 
 2. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
 teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and Data Engineering, 11, 9, (2022), 381-390. [KCI]
