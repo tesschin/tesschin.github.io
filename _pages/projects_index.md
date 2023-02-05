@@ -22,7 +22,7 @@ covid_project:
 offensive_project:    
   - image_path: /assets/images/offensive.png
     alt: "placeholder image 2"
-    title: "Contrastive learning for offensive language detection"
+    title: "Contrastive learning for offensive language detection (under review)"
     excerpt:
     url: 
     btn_label: "Under Review"
@@ -31,7 +31,7 @@ offensive_project:
 depress_project:    
   - image_path: /assets/images/depressivemood.png
     alt: "placeholder image 2"
-    title: "Unique Characteristics of Human-Chatbot Conversations and Their Potential for Mental Health Support"
+    title: "Unique Characteristics of Human-Chatbot Conversations and Their Potential for Mental Health Support (under review)"
     excerpt:
     url: 
     btn_label: "Under Review"
@@ -40,7 +40,7 @@ depress_project:
 usercharacter_project:    
   - image_path: /assets/images/usercharacteristic_beta.png
     alt: "placeholder image 2"
-    title: "How user characteristics influence offensive language usages towards a Social Chatbot"
+    title: "How user characteristics influence offensive language usages towards a Social Chatbot (under review)"
     excerpt:
     url: 
     btn_label: "Under Review"
