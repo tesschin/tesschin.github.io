@@ -29,8 +29,8 @@ Data Scientist. HCI Researcher. Very interested in understanding and designing h
 
 
 ## News
-* My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was published by the Journal of Medical Internet Research (impact factor: 7.08/27th Jan 2023)!
-* Links to the media coverage that our paper received
+#### My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was published by the Journal of Medical Internet Research (impact factor: 7.08/27th Jan 2023)!
+#### Links to the media coverage that our paper received
  - [EN_Medicalxpress](https://medicalxpress.com/news/2023-01-people-interacted-chatbots-covid-pandemic.html)
  - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800)
  - [KR_yonhapnews](https://www.yna.co.kr/view/AKR20230118054500063?input=1179m)
