@@ -31,7 +31,7 @@ Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International
  
 3. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experienceand
 Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The Web Conference, April 19–23, 2021, Ljubljana, Slovenia. ACM, NewYork, NY, USA, 12 pages.<br> 
-- DOI: [https://doi.org/10.1145/1122445.11224](https://doi.org/10.1145/1122445.11224)
+- DOI: [https://doi.org/10.1145/3442381.3450121](https://doi.org/10.1145/3442381.3450121)
 
 4. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
 - DOI: [https://doi.org/10.1145/3313831.3376461](https://doi.org/10.1145/3313831.3376461)
