@@ -18,7 +18,33 @@ covid_project:
     url: "/simsimicovid19"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  
+    
+offensive_project:    
+  - image_path: /assets/images/offensive.png
+    alt: "placeholder image 2"
+    title: "Contrastive learning for offensive language detection"
+    excerpt:
+    url: 
+    btn_label: "Under Review"
+    btn_class: "btn--primary"
+    
+depress_project:    
+  - image_path: /assets/images/depressivemood.png
+    alt: "placeholder image 2"
+    title: "Unique Characteristics of Human-Chatbot Conversations and Their Potential for Mental Health Support"
+    excerpt:
+    url: 
+    btn_label: "Under Review"
+    btn_class: "btn--primary"  
+ 
+usercharacter_project:    
+  - image_path: /assets/images/usercharacteristic_beta.png
+    alt: "placeholder image 2"
+    title: "How user characteristics influence offensive language usages towards a Social Chatbot"
+    excerpt:
+    url: 
+    btn_label: "Under Review"
+    btn_class: "btn--primary"  
   
 Voice_project:    
   - image_path: /assets/images/voice.JPG
@@ -63,13 +89,19 @@ driving_project:
 ## Research Project
 {% include feature_row id="covid_project" type="left" %}
 
-{% include feature_row id="Voice_project" type="right" %}
+{% include feature_row id="offensive_project" type="right" %}
 
-{% include feature_row id="Conversational_agent_project" type="left" %}
+{% include feature_row id="depress_project" type="left" %}
 
-{% include feature_row id="music_project" type="right" %}
+{% include feature_row id="usercharacter_project" type="right" %}
 
-{% include feature_row id="driving_project" type="left" %}
+{% include feature_row id="Voice_project" type="left" %}
+
+{% include feature_row id="Conversational_agent_project" type="right" %}
+
+{% include feature_row id="music_project" type="left" %}
+
+{% include feature_row id="driving_project" type="right" %}
 
 ## Research Experience
 
