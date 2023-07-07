@@ -45,7 +45,7 @@ Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The W
 7. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
 - DOI: [https://doi.org/10.1145/3027063.3053188](https://doi.org/10.1145/3027063.3053188)
 
-## Conference Proceedings (Korea
+## Conference Proceedings (Korean)
 1. G. Baek, C. Cha, J. Choi, M. Cha, and **Hyojin Chin**. 2023. Depression-related discourse between AI chatbot and users: A qualitative study. Proceedings of the Korean Information Science Society Conference, 2023
    
 2. **Hyojin Chin** et al. 2022. Characteristics and Differences of Depressive Moods in Korean and English Chatbot Data. Proceedings of HCI Korea 2022, pp.107-111
