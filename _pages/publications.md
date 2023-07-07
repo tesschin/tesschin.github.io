@@ -18,7 +18,7 @@ teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and
 - DOI: [https://doi.org/10.3745/KTSDE.2022.11.9.381](https://doi.org/10.3745/KTSDE.2022.11.9.381)
 
 3. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
-Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 4.7** / **SCIE**/ **SSCI**/ **Q1**) <br>
+Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 4.7** / **SCIE** / **SSCI** / **Q1**) <br>
 - DOI: [https://doi.org/10.1080/10447318.2021.1987680](https://doi.org/10.1080/10447318.2021.1987680)
 
 4. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. [KCI] <br> 
