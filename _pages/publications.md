@@ -46,19 +46,23 @@ Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The W
 - DOI: [https://doi.org/10.1145/3027063.3053188](https://doi.org/10.1145/3027063.3053188)
 
 ## Conference Proceedings (Korean)
-1. G. Baek, C. Cha, J. Choi, M. Cha, and **Hyojin Chin**. 2023. Depression-related discourse between AI chatbot and users: A qualitative study. Proceedings of the Korean Information Science Society Conference, 2023
+1. G. Baek, C. Cha, J. Choi, M. Cha, and **Hyojin Chin**, Depression-related discourse between AI chatbot and users: A qualitative study. Proceedings of the Korean Information Science Society Conference, 2023
+
+2. C. Jung, H. Song, **Hyojin Chin**, M. Shin, and M. Cha, Contrastive Learning for Hate Speech Detection. Proceedings of the Korean Information Science Society Conference,  2022
+
+3. A. Zhunis, G. Lima, **Hyojin Chin**, M. Shin, J. Choi, C. Cha, and M. Cha. Unique Characteristics of Human-Chatbot Conversations and Their Potential for Mental Health Support, 2022
    
-2. **Hyojin Chin** et al. 2022. Characteristics and Differences of Depressive Moods in Korean and English Chatbot Data. Proceedings of HCI Korea 2022, pp.107-111
+4. **Hyojin Chin** et al. 2022. Characteristics and Differences of Depressive Moods in Korean and English Chatbot Data. Proceedings of HCI Korea 2022, pp.107-111
 
-3. **Hyojin Chin** et al. 2021. A Study on the Categories and Characteristics of Depressive Moods in Chatbot Data. Proceedings of the Korea Information Processing Society Conference, 28(2) pp.993-996
+5. **Hyojin Chin** et al. 2021. A Study on the Categories and Characteristics of Depressive Moods in Chatbot Data. Proceedings of the Korea Information Processing Society Conference, 28(2) pp.993-996
 
-4. Mingi Shin and **Hyojin Chin** et al. 2021. Hate Speech Detection in Chatbot Data Using KoELECTRA. Proceedings of the 33th Annual Conference on Human and Cognitive Language Technology, pp.518-523
+6. Mingi Shin and **Hyojin Chin** et al. 2021. Hate Speech Detection in Chatbot Data Using KoELECTRA. Proceedings of the 33th Annual Conference on Human and Cognitive Language Technology, pp.518-523
 
-5. **Hyojin Chin** and Mun Yong Yi. 2017. A Study on the Influence of Contents of Internet News Comments on the Acceptance of New Car Products. Proceedings of the Korean Information Science Society Conference. 605-608
+7. **Hyojin Chin** and Mun Yong Yi. 2017. A Study on the Influence of Contents of Internet News Comments on the Acceptance of New Car Products. Proceedings of the Korean Information Science Society Conference. 605-608
 
-6. Kim, Seongchan, Jincheul Jang, Seong Jung Kim, **Hyojin Chin** and Mun Yong Yi. 2016.Job Preference Analysis and Job Matching System Development for the Middle-Aged Class. Journal of Intelligence and Information Systems. 22(4), 247–264
+8. Kim, Seongchan, Jincheul Jang, Seong Jung Kim, **Hyojin Chin** and Mun Yong Yi. 2016.Job Preference Analysis and Job Matching System Development for the Middle-Aged Class. Journal of Intelligence and Information Systems. 22(4), 247–264
 
-7. SeongJung Kim, Seongchan Kim, Jincheul Jang, **Hyojin Chin**, and Mun Y. Yi. 2016. Job Preference and Selection Analysis of Senior People for Developing Senior Job Recommendation Algorithm. Proceedings of the Korean Information Science Society Conference, 331-333.
+9. SeongJung Kim, Seongchan Kim, Jincheul Jang, **Hyojin Chin**, and Mun Y. Yi. 2016. Job Preference and Selection Analysis of Senior People for Developing Senior Job Recommendation Algorithm. Proceedings of the Korean Information Science Society Conference, 331-333.
 
-8. Jincheul Jang, Dapeng Zhao, Seongchan Kim, **Hyojin Chin**, SeongJung Kim, and Mun Y. Yi. 2016. Requirement Analysis of Personalized Job Matching Service for Middle-Aged Adults in South Korea. Proceedings of the HCI Society of Korea, 68-69.
+10. Jincheul Jang, Dapeng Zhao, Seongchan Kim, **Hyojin Chin**, SeongJung Kim, and Mun Y. Yi. 2016. Requirement Analysis of Personalized Job Matching Service for Middle-Aged Adults in South Korea. Proceedings of the HCI Society of Korea, 68-69.
 
