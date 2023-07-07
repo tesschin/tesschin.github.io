@@ -14,22 +14,19 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Data Scientist. HCI Researcher. Very interested in understanding and designing human interactions with artificial intelligence systems. Involved in explaining and predicting human behaviors through data analysis. Worked as a Brand Marketer in Samsung Electronics and as a Senior Account Planner in Innocean Worldwide (Hyundai Motor Company’s global marketing communication enterprise). Heavy Music Listener. Love reading books, swimming, and walking.
+Data Scientist. HCI Researcher. Senior researcher at the Center for Mathematical and Computational Sciences, Institute for Basic Science (IBS). Very interested in understanding and designing human interactions with artificial intelligence systems. Involved in explaining and predicting human behaviors through data analysis. Worked as a Samsung Electronics Brand Marketer and Senior Account Planner at Innocean Worldwide (Hyundai Motor Company’s global marketing communication enterprise). Heavy Music Listener. Love reading books, swimming, and walking.
 
 {: style="text-align: justify;"}
 
 ## Research Interests
-* Understanding and Designing Human Interactions with Artificial Intelligence Systems
-* Applied Data Mining : Explaining and predicting unknown behavior by analyzing data
-* Natural Language Processing, Hate speech detection and mitigation
-* Computational Social Science
-* Human-Computer Interaction, Affective Computing
+Understanding and designing human interactions with artificial intelligence systems, Solving challenging social science problems (e.g., hate speech, AI ethics, and misinformation) using computational methods, and explaining and predicting unknown behavior by analyzing data 
 
 
 
 
 ## News
-#### My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was published by the Journal of Medical Internet Research (impact factor: 7.08/27th Jan 2023)!
+#### Selected as a Rising Star Researcher for 2023 at the Google & KAIST ExploreCSR Tech Seminar. Feb 2023.
+#### My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, Jan 2023)!
 #### Links to the media coverage that our paper received
  - [EN_Medicalxpress](https://medicalxpress.com/news/2023-01-people-interacted-chatbots-covid-pandemic.html)
  - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800)
