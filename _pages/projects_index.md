@@ -31,10 +31,10 @@ offensive_project:
 depress_project:    
   - image_path: /assets/images/depressivemood.png
     alt: "placeholder image 2"
-    title: "Unique Characteristics of Human-Chatbot Conversations and Their Potential for Mental Health Support (under review)"
+    title: "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures"
     excerpt:
-    url: 
-    btn_label: "Under Review"
+    url: "/simsimidepression"
+    btn_label: "Read More"
     btn_class: "btn--primary"  
  
 usercharacter_project:    
