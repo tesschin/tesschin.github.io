@@ -25,8 +25,8 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
+#### My latest study "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures" was accepted by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, 29th Sep 2023)!
 #### Selected as a Rising Star Researcher for 2023 at the Google & KAIST ExploreCSR Tech Seminar. Feb 2023.
-#### My latest study "User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, Jan 2023)!
 #### Links to the media coverage that our paper received
  - [EN_Medicalxpress](https://medicalxpress.com/news/2023-01-people-interacted-chatbots-covid-pandemic.html)
  - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800)
