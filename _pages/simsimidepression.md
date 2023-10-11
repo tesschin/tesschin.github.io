@@ -7,10 +7,10 @@ excerpt: "Study Based on natural language processing and semi-supervised learnin
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: ./assets/images/covid19.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: ./assets/images/depression.png
+  caption: "Photo credit: [**Freepik**](https://freepik.com)"
   #cta_label: "More Info"
-  #cta_url: "https://unsplash.com"
+  #cta_url: "https://freepik.com"
 
 ---
 ### **Background**
