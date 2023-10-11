@@ -10,18 +10,21 @@ toc_icon: "cog"
 ---
 
 ## Refereed Journals
-1.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: Study Based on Topic Modeling and Sentiment Analysis.Journal of Medical Internet Research.2023;25:e40922 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
+1.  **Hyojin Chin**, Hyeonho Song, Gumhee Baek, Mingi Shin, Chani Jung, Jeonghoi Choi, Meeyoung Cha and Chiyoung Cha. The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures. Journal of Medical Internet Research.(**Accepted** /forthcoming) (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
+- DOI: [http://dx.doi.org/10.2196/51712](http://dx.doi.org/10.2196/51712)
+
+2.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: Study Based on Topic Modeling and Sentiment Analysis.Journal of Medical Internet Research.2023;25:e40922 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
 - DOI: [https://doi.org/10.2196/40922](https://doi.org/10.2196/40922)
 
-2. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
+3. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
 teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and Data Engineering, 11, 9, (2022), 381-390. [KCI]
 - DOI: [https://doi.org/10.3745/KTSDE.2022.11.9.381](https://doi.org/10.3745/KTSDE.2022.11.9.381)
 
-3. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
+4. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 4.7** / **SCIE** / **SSCI** / **Q1**) <br>
 - DOI: [https://doi.org/10.1080/10447318.2021.1987680](https://doi.org/10.1080/10447318.2021.1987680)
 
-4. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. [KCI] <br> 
+5. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. [KCI] <br> 
 - DOI: [https://doi.org/10.13088/JIIS.2016.22.4.247](https://doi.org/10.13088/JIIS.2016.22.4.247)
 
 ## Conference Proceedings (International) 
