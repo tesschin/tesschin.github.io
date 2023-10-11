@@ -3,7 +3,7 @@ title: "The Potential of Chatbots for Emotional Support and Promoting Mental Wel
 permalink: /simsimidepression/
 layout: splash
 classes: wide
-excerpt: "Study Based on Sentiment Analysis and Semi-Supervised Learning"
+excerpt: "Study Based on natural language processing and semi-supervised learning"
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
