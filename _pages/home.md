@@ -23,6 +23,7 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
+
 #### Our recent study "Context-Aware Offensive Language Detection in Human-Chatbot Conversations" was accepted in international Conference on Big Data and Smart Computing (BigComp 2024). 
 #### Our research paper titled “Detecting Offensive Language in an Open Chatbot Platform” received outstanding paper awards from the the Korean Artificial Intelligence Association.
 #### My study "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, 20th Oct 2023)
