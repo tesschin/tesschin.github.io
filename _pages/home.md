@@ -23,14 +23,10 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
-#### My latest study "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, 29th Sep 2023)!
+#### Our recent study "Context-Aware Offensive Language Detection in Human-Chatbot Conversations" was accepted in international Conference on Big Data and Smart Computing (BigComp 2024). 
+#### Our research paper titled “Detecting Offensive Language in an Open Chatbot Platform” received outstanding paper awards from the the Korean Artificial Intelligence Association.
+#### My study "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, 20th Oct 2023)
 #### Selected as a Rising Star Researcher for 2023 at the Google & KAIST ExploreCSR Tech Seminar. Feb 2023.
 #### Links to the media coverage that our paper received
  - [EN_Medicalxpress](https://medicalxpress.com/news/2023-01-people-interacted-chatbots-covid-pandemic.html)
- - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800)
- - [KR_yonhapnews](https://www.yna.co.kr/view/AKR20230118054500063?input=1179m)
- - [KR_herald](http://news.heraldcorp.com/view.php?ud=20230118000233)
- - [KR_Hankyoreh](https://www.hani.co.kr/arti/economy/it/1076172.html)
- - [KR_digitaltimes](http://www.dt.co.kr/contents.html?article_no=2023011802109931731002&ref=daum)
- - [KR_Chosun_Biz](https://v.daum.net/v/20230118181018891)
- - [KR_dongaScience](https://www.dongascience.com/news.php?idx=58091) 
+ - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800) and so on.
