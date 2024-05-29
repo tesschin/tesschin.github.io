@@ -30,7 +30,7 @@ Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International
 - DOI: [https://doi.org/10.13088/JIIS.2016.22.4.247](https://doi.org/10.13088/JIIS.2016.22.4.247)
 
 ## Conference Proceedings (International) 
-1.Hyeonho Song, J. Hong, Chani Jung, **Hyojin Chin**, Mingi Shin, Yubin Choi, Jeonghoi Choi, and Meeyoung Cha. Detecting Offensive Language in an Open Chatbot Platform. In Proceedings of the 2024 Joint International Conference on Computational
+1. Hyeonho Song, J. Hong, Chani Jung, **Hyojin Chin**, Mingi Shin, Yubin Choi, Jeonghoi Choi, and Meeyoung Cha. Detecting Offensive Language in an Open Chatbot Platform. In Proceedings of the 2024 Joint International Conference on Computational
 Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 4760–4771, Torino, Italy. ELRA and ICCL.
 - DOI: [https://aclanthology.org/2024.lrec-main.426](https://aclanthology.org/2024.lrec-main.426)
 
