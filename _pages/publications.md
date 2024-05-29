@@ -10,44 +10,51 @@ toc_icon: "cog"
 ---
 
 ## Refereed Journals
-1.  **Hyojin Chin**, Hyeonho Song, Gumhee Baek, Mingi Shin, Chani Jung, Jeonghoi Choi, Meeyoung Cha and Chiyoung Cha. The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures. Journal of Medical Internet Research.2023;25:e51712 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
+1. **Hyojin Chin**, and Mun Yi. Exploring the Influence of User Characteristics on Verbal Aggression Towards Social Chatbots. Behaviour & Information Technology. 2024 ( **Accepted**/**IF 3.7** / **SCIE** / **Q2** / **68.8%**) <br>
+
+2.  **Hyojin Chin**, Hyeonho Song, Gumhee Baek, Mingi Shin, Chani Jung, Jeonghoi Choi, Meeyoung Cha and Chiyoung Cha. The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures. Journal of Medical Internet Research.2023;25:e51712 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
 - DOI: [https://doi.org/10.2196/51712](https://doi.org/10.2196/51712)
 
-2.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: Study Based on Topic Modeling and Sentiment Analysis.Journal of Medical Internet Research.2023;25:e40922 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
+3.  **Hyojin Chin**, Gabriel Lima, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi and Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: Study Based on Topic Modeling and Sentiment Analysis.Journal of Medical Internet Research.2023;25:e40922 (**IF 7.4** / **SCIE** / **Q1** / **97.6%**) <br>
 - DOI: [https://doi.org/10.2196/40922](https://doi.org/10.2196/40922)
 
-3. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
+4. **Hyojin Chin**, Chani Jung, Gumhee Baek, Chiyoung Cha, Jeonghoi Choi, and Meeyoung Cha. 2022. Understanding the Categories and Charac-
 teristics of Depressive Moods in Chatbot Data. KIPS Transactions on Software and Data Engineering, 11, 9, (2022), 381-390. [KCI]
 - DOI: [https://doi.org/10.3745/KTSDE.2022.11.9.381](https://doi.org/10.3745/KTSDE.2022.11.9.381)
 
-4. **Hyojin Chin** and Mun Yong Yi. 2021. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
+5. **Hyojin Chin** and Mun Yong Yi. 2022. Voices that Care Differently: Understanding the Effectiveness of a Conversational Agent with an Alternative Empathy
 Orientation and Emotional Expressivity in Mitigating Verbal Abuse. International Journal of Human–Computer Interaction. (**IF 4.7** / **SCIE** / **SSCI** / **Q1**) <br>
 - DOI: [https://doi.org/10.1080/10447318.2021.1987680](https://doi.org/10.1080/10447318.2021.1987680)
 
-5. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. [KCI] <br> 
+6. Kim, Seongchan, Jincheul Jang, Seongchan Kim, **Hyojin Chin**, and Mun Yong Yi. 2016. Job Preference Analysis and Job Matching System Development for the Middle Aged Class. Journal of Intelligence and Information Systems, 22(4), 247–264. [KCI] <br> 
 - DOI: [https://doi.org/10.13088/JIIS.2016.22.4.247](https://doi.org/10.13088/JIIS.2016.22.4.247)
 
 ## Conference Proceedings (International) 
-1. Mingi Shin, **Hyojin Chin**, Hyeonho Song, Yubin Choi, Jeonghoi Choi, Meeyoung Cha. Context-Aware Offensive Language Detection in Human-Chatbot Conversations. IEEE International Conference on Big Data and Smart Computing (BigComp 2024) (Accepted) 
+1.Hyeonho Song, J. Hong, Chani Jung, **Hyojin Chin**, Mingi Shin, Yubin Choi, Jeonghoi Choi, and Meeyoung Cha. Detecting Offensive Language in an Open Chatbot Platform. In Proceedings of the 2024 Joint International Conference on Computational
+Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 4760–4771, Torino, Italy. ELRA and ICCL.
+- DOI: [https://aclanthology.org/2024.lrec-main.426](https://aclanthology.org/2024.lrec-main.426)
 
-2. Soo Young Bae, **Hyojin Chin**, Meeyoung Cha. Algorithm-driven News Outcomes on Political Knowledge and Rumor Beliefs. In Extended Abstracts of the 2022 International Communication Association Conference, 2022
+2. Mingi Shin, **Hyojin Chin**, Hyeonho Song, Yubin Choi, Jeonghoi Choi, Meeyoung Cha. Context-Aware Offensive Language Detection in Human-Chatbot Conversations. 2024 IEEE International Conference on Big Data and Smart Computing (BigComp), Bangkok, Thailand, 2024, pp. 270-277, 
+- DOI: [https://ieeexplore.ieee.org/document/10488271](https://ieeexplore.ieee.org/document/10488271)
+  
+3. Soo Young Bae, **Hyojin Chin**, Meeyoung Cha. Algorithm-driven News Outcomes on Political Knowledge and Rumor Beliefs. In Extended Abstracts of the 2022 International Communication Association Conference, 2022
 
-3. M. Whiting, S. Park, M. Cha, S.W. Lee, **Hyojin Chin**, and M.M. Molaie, Do differences in national or political identity matter more for preferences? 8th The International Conference for Computational Social Science (IC2S2), 2022
+4. M. Whiting, S. Park, M. Cha, S.W. Lee, **Hyojin Chin**, and M.M. Molaie, Do differences in national or political identity matter more for preferences? 8th The International Conference for Computational Social Science (IC2S2), 2022
  
-4. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experience
+5. Sungkyu Park, Jamie Yejean Park, **Hyojin Chin**, Jeong-han Kang, and Meeyoung Cha. 2021. An Experimental Study to Understand User Experience
 Perception Bias Occurred by Fact-checking Messages. InLjubljana ’21:30th The Web Conference, April 19–23, 2021, Ljubljana, Slovenia. ACM, NewYork, NY, USA, 12 pages.<br> 
 - DOI: [https://doi.org/10.1145/3442381.3450121](https://doi.org/10.1145/3442381.3450121)
 
-5. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent Should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
+6. **Hyojin Chin**, Lebogang Wame Molefi, and Mun Yong Yi. 2020. Empathy Is All You Need: How a Conversational Agent Should Respond to Verbal Abuse. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–13.<br>
 - DOI: [https://doi.org/10.1145/3313831.3376461](https://doi.org/10.1145/3313831.3376461)
 
-6. **Hyojin Chin** and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages.<br>
+7. **Hyojin Chin** and Mun Yong Yi. 2019. Should an Agent Be Ignoring It?: A Study of Verbal Abuse Types and Conversational Agents' Response Styles. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper LBW2422, 6 pages.<br>
 - DOI: [https://doi.org/10.1145/3290607.3312826](https://doi.org/10.1145/3290607.3312826)
 
-7. **Hyojin, Chin**, et al. "Explicit Content Detection in Music Lyrics Using Machine Learning." 2018 IEEE International Conference on Big Data and Smart Computing (BigComp). IEEE, 2018. <br>
+8. **Hyojin, Chin**, et al. "Explicit Content Detection in Music Lyrics Using Machine Learning." 2018 IEEE International Conference on Big Data and Smart Computing (BigComp). IEEE, 2018. <br>
 - DOI: [https://doi.org/10.1109/BigComp.2018.00085](https://doi.org/10.1109/BigComp.2018.00085)
 
-8. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
+9. **Hyojin Chin**, Hengameh Zabihi, Sangkeun Park, Mun Yong Yi, and Uichin Lee. 2017. WatchOut: Facilitating Safe Driving Behaviors with Social Support. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '17). ACM, New York, NY, USA, 2459-2465. <br>
 - DOI: [https://doi.org/10.1145/3027063.3053188](https://doi.org/10.1145/3027063.3053188)
 
 ## Conference Proceedings (Korean)
