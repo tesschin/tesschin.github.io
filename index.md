@@ -25,11 +25,6 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
-#### Our recent study "Detecting Offensive Language in an Open Chatbot Platform" was accepted in International Conference on Computational Linguistics (COLING 2024)!. 
-#### Our recent study "Context-Aware Offensive Language Detection in Human-Chatbot Conversations" was accepted in IEEE international Conference on Big Data and Smart Computing (BigComp 2024). 
+#### Our recent study "Exploring the Influence of User Characteristics on Verbal Aggression Towards Social Chatbots" was accepted by the journal Behaviour & Information Technology (impact factor: 3.7, Q2, 69%). 
+#### Our recent study "Detecting Offensive Language in an Open Chatbot Platform" was published in International Conference on Computational Linguistics (COLING 2024). 
 #### Our research paper titled “Detecting Offensive Language in an Open Chatbot Platform” received outstanding paper awards from the the Korean Artificial Intelligence Association.
-#### My study "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures" was published by the Journal of Medical Internet Research (impact factor: 7.4, Q1, 97.6%, 20th Oct 2023)
-#### Selected as a Rising Star Researcher for 2023 at the Google & KAIST ExploreCSR Tech Seminar. Feb 2023.
-#### Links to the media coverage that our paper received
- - [EN_Medicalxpress](https://medicalxpress.com/news/2023-01-people-interacted-chatbots-covid-pandemic.html)
- - [KR_Newsis](https://newsis.com/view/?id=NISX20230118_0002163201&cID=10807&pID=10800) and so on.
