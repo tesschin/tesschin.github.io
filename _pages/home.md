@@ -23,6 +23,7 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
-#### Our recent study "Exploring the Influence of User Characteristics on Verbal Aggression Towards Social Chatbots" was accepted by the journal Behaviour & Information Technology (impact factor: 3.7, Q2, 69%).
+#### Our new study "Behaviors and Perceptions of Human-Chatbot Interactions Based on Top Active Users of a Chatbot" was accepted by the CSCW 2024!!(Top conference in Computer Science domain). 
+#### Our recent study "Exploring the Influence of User Characteristics on Verbal Aggression Towards Social Chatbots" was online published by the journal Behaviour & Information Technology (impact factor: 3.7, Q2, 69%).
 #### Our recent study "Detecting Offensive Language in an Open Chatbot Platform" was published in International Conference on Computational Linguistics (COLING 2024).
 #### Our research paper titled “Detecting Offensive Language in an Open Chatbot Platform” received outstanding paper awards from the the Korean Artificial Intelligence Association.
