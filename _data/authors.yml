@@ -3,8 +3,8 @@
 Hyojin Chin:
   name             : "Hyojin Chin"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Researcher @ Data Science Group, Center for Mathematical and Computational Sciences, Institute for Basic Science (IBS)."
-  location         : "Daejeon, Republic of Korea"
+  bio              : "Assistant professor @ Department Computer Science and Engineering, Gyeongsang National University (GNU)."
+  location         : "Republic of Korea"
   email            : tesschin@gmail.com
   uri              : http://tesschin.github.io
   bitbucket        :
