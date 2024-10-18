@@ -25,7 +25,6 @@ Understanding and designing human interactions with artificial intelligence syst
 
 
 ## News
+#### Our paper, titled 'Behaviors and Perceptions of Human-Chatbot Interactions Based on Top Active Users of a Commercial Social Chatbot,' was recognized as one of the best papers at CSCW and featured on the official ACM CSCW blog on Medium.
 #### Our new study "Behaviors and Perceptions of Human-Chatbot Interactions Based on Top Active Users of a Chatbot" was accepted by the CSCW 2024!!(2024.06.05.Top conference in Computer Science domain). 
 #### Our recent study "Exploring the Influence of User Characteristics on Verbal Aggression Towards Social Chatbots" was online published by the journal Behaviour & Information Technology (impact factor: 3.7, Q2, 69%). 
-#### Our recent study "Detecting Offensive Language in an Open Chatbot Platform" was published in International Conference on Computational Linguistics (COLING 2024). 
-#### Our research paper titled “Detecting Offensive Language in an Open Chatbot Platform” received outstanding paper awards from the the Korean Artificial Intelligence Association.
